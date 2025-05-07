@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-cilleruelo-2b8624235/" target="_blank">
+  <a href="https://www.linkedin.com/in/samuel-cilleruelo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Samuel's LinkedIn"/>
   </a>
   <a href="https://github.com/2amu" target="_blank">
@@ -27,5 +27,5 @@ Currently, I'm focused on **self-learning web and application development**, exp
 
 ### 📚 University & Personal Projects
 
-- 🎓 [UPC Courses & Assignments](https://github.com/2amu/UPC-Courses)
-  Projects and exercises from my university journey.
+- 🎓 [PROP](https://github.com/2amu/FIB-PROP) I developed an application based on generate **Optimized Keyboards**.
+- 🎓[SOA](https://github.com/2amu/FIB-SOA) I had to **add new funcionalities** in a **Zeos OS**.
