@@ -19,13 +19,13 @@
 
 I'm Samuel, a 4th-year Computer Engineering student at the **Universitat Politècnica de Catalunya (UPC)**, pursuing a double specialization in **Software Engineering** and **Information Technologies**.
 
-I'm passionate about the development of technologies and continuous progress in all areas of computing. Whether it's through creating tools, improving systems, cybersecurity or exploring new ideas, I strive to push boundaries and build meaningful solutions.
+I'm passionate about the development of technologies and continuous learning in all areas of computing. Whether it's through creating tools, improving systems, cybersecurity or exploring new ideas, I strive to push boundaries and build meaningful solutions.
 
 Currently, I'm focused on **self-learning web and application development**, expanding my skills beyond the classroom and bringing ideas to life through code.
+
 ---
 
 ### 📚 University & Personal Projects
 
 - 🎓 [UPC Courses & Assignments](https://github.com/2amu/UPC-Courses)
-  Coursework, exercises, and notes from my university journey.
-</p>
+  Projects and exercises from my university journey.
