@@ -27,5 +27,5 @@ Currently, I'm focused on **self-learning web and application development**, exp
 
 ### 📚 University & Personal Projects
 
-- 🎓 [PROP](https://github.com/2amu/FIB-PROP) I developed an application based on generate **Optimized Keyboards**.
-- 🎓[SOA](https://github.com/2amu/FIB-SOA) I had to **add new funcionalities** in a **Zeos OS**.
+- 🎓 [PROP](https://github.com/2amu/FIB-PROP) I developed an application to generate **Optimized Keyboards**.
+- 🎓[SOA](https://github.com/2amu/FIB-SOA) I implemented **new functionalities** in a **Zeos OS**.
