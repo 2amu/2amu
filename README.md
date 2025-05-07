@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Samuel Cilleruelo! 👋</h1>
 <p align="center">
   🚀 Passionate about software development and tech innovation<br>
-  🎓 Double Degree Student in Software Engineering & IT at UPC<br>
-  📍 Based in Barcelona, Spain
+  🎓 Bachelor's Degree in Computer Engineering with a double specialization in Software Engineering and Information Technologies at UPC.<br>
+  📍 Barcelona, Spain
 </p>
 
 <p align="center">
@@ -18,45 +18,15 @@
 
 ### 👨‍💻 About Me
 
-I'm Samuel, a 4th-year student pursuing a **Double Bachelor's Degree in Software Engineering and Information Technologies** at the **Universitat Politècnica de Catalunya (UPC)**.
+I'm Samuel, a 4th-year Computer Engineering student at the **Universitat Politècnica de Catalunya (UPC)**, pursuing a double specialization in **Software Engineering** and **Information Technologies**.
 
-I'm driven by a deep curiosity and a desire to **create impactful tools**, whether it's through clean backend logic, intuitive interfaces, or efficient data structures. My mission is to keep learning, keep building, and make technology more useful and accessible.
+I'm passionate about the development of technologies and continuous progress in all areas of computing. Whether it's through creating tools, improving systems, cybersecurity or exploring new ideas, I strive to push boundaries and build meaningful solutions.
 
----
-
-### 🛠️ Tech Stack
-
-- **Languages**: C++, C, SQL, JavaScript  
-- **Web**: HTML, CSS, Node.js, Express, React  
-- **Databases**: MySQL, PostgreSQL  
-- **Tools**: Git, GitHub, Docker, VSCode  
-- **Interests**: Backend development, APIs, DevOps, and automation
-
+Currently, I'm focused on **self-learning web and application development**, expanding my skills beyond the classroom and bringing ideas to life through code.
 ---
 
 ### 📚 University & Personal Projects
 
-Here are some repositories that showcase both academic work and personal exploration:
-
-- 🎓 [UPC Courses & Assignments](https://github.com/2amu/UPC-Courses)  
+- 🎓 [UPC Courses & Assignments](https://github.com/2amu/UPC-Courses)
   Coursework, exercises, and notes from my university journey.
-
-- 🛠️ [Personal Projects](https://github.com/2amu/Projects)  
-  A growing collection of tools, experiments, and full-stack projects I’ve built in my free time.
-
----
-
-### 💡 Let's Connect!
-
-If you’re working on something cool, want to collaborate, or just talk tech — feel free to reach out!
-
-<p align="left">
-  📫 samuel.cilleruelo@gmail.com  
-  🔗 [LinkedIn Profile](https://www.linkedin.com/in/samuel-cilleruelo-2b8624235/)
-</p>
-
----
-
-<p align="center">
-  <em>"Stay curious, stay building." 💻</em>
 </p>
