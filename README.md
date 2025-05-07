@@ -1,7 +1,6 @@
 <h1 align="center">Hey there, I'm Samuel Cilleruelo! 👋</h1>
 <p align="center">
-  🚀 Passionate about software development and tech innovation<br>
-  🎓 Bachelor's Degree in Computer Engineering with a double specialization in Software Engineering and Information Technologies at UPC.<br>
+  🎓 Computer Engineering, Software Engineering and Information Technologies at UPC.<br>
   📍 Barcelona, Spain
 </p>
 
